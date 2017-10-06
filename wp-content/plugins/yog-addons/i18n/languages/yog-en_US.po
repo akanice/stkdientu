@@ -1,0 +1,1315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yog Addons\n"
+"POT-Creation-Date: 2017-08-18 14:35+0500\n"
+"PO-Revision-Date: 2017-08-18 14:35+0500\n"
+"Last-Translator: \n"
+"Language-Team: CKThemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;esc_attr_e;esc_html_e;_n;"
+"_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/cpt/testimonial-cpt.php:32 includes/cpt/testimonial-cpt.php:34
+msgid "Testimonials"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:33 includes/cpt/testimonial-cpt.php:35
+#: includes/cpt/testimonial-cpt.php:65
+msgid "Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:36
+msgid "Testimonial Archives"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:37
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:38
+msgid "All Items"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:39
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:40
+msgid "Add New"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:41
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:42
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:43
+msgid "Update Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:44
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:45
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:46
+msgid "Not found"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:47
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:48
+msgid "Featured Image"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:49
+msgid "Set featured image"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:50
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:51
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:52
+msgid "Insert into Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:53
+msgid "Uploaded to this Testimonial"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:54
+msgid "Items list"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:55
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/cpt/testimonial-cpt.php:56
+msgid "Filter items list"
+msgstr ""
+
+#: includes/libs/js_composer/shortcodes.php:685
+msgid "By"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:83
+msgid "No Animation"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:84
+msgid "Bounce"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:85
+msgid "Bounce In"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:86
+msgid "Bounce In Up"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:87
+msgid "Bounce In Down"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:88
+msgid "Bounce In Left"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:89
+msgid "Bounce In Right"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:90
+msgid "Fade In"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:91
+msgid "Fade In Up"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:92
+msgid "Fade In Down"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:93
+msgid "Fade In Left"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:94
+msgid "Fade In Right"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:95
+msgid "Fade In Up Big"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:96
+msgid "Fade In Down Big"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:97
+msgid "Fade In Left Big"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:98
+msgid "Fade In Right Big"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:99
+msgid "Flash"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:100
+msgid "Flip In X"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:101
+msgid "Flip In Y"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:102
+msgid "Jello"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:103
+msgid "Pulse"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:104
+msgid "Shake"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:105
+msgid "Swing"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:106
+msgid "Tada"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:107
+msgid "Rotate In"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:108
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:109
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:110
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:111
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:112
+msgid "Rubber Band"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:113
+msgid "Wobble"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:114
+msgid "Wiggle"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:115
+msgid "Zoom In"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:116
+msgid "Zoom In Up"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:117
+msgid "Zoom In Down"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:118
+msgid "Zoom In Left"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:119
+msgid "Zoom In Right"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:120
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:121
+msgid "Zoom Out Up"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:122
+msgid "Zoom Out Down"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:123
+msgid "Zoom Out Left"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:124
+msgid "Zoom Out Right"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:261
+msgid "Date"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:262
+msgid "ID"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:263
+msgid "Author"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:264
+#: includes/libs/js_composer/vc-xtend.php:316
+#: includes/libs/js_composer/vc-xtend.php:349
+#: includes/libs/js_composer/vc-xtend.php:440
+msgid "Title"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:265
+msgid "Modified"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:266
+msgid "Random"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:267
+msgid "Comment count"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:268
+msgid "Menu order"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:273
+msgid "Descending"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:274
+msgid "Ascending"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:316
+#: includes/libs/js_composer/vc-xtend.php:352
+#: includes/libs/js_composer/vc-xtend.php:443
+#: includes/libs/js_composer/vc-xtend.php:477
+msgid "Id"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:316
+#: includes/libs/js_composer/vc-xtend.php:344
+#: includes/libs/js_composer/vc-xtend.php:435
+msgid "Sku"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:477
+msgid "Name"
+msgstr ""
+
+#: includes/libs/js_composer/vc-xtend.php:477
+msgid "Slug"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:7
+msgid "Row"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:12
+#: includes/libs/js_composer/vc_map.php:177
+#: includes/libs/js_composer/vc_map.php:393
+#: includes/libs/js_composer/vc_map.php:544
+msgid "Content"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:13
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:18
+msgid "Row stretch"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:21
+#: includes/libs/js_composer/vc_map.php:32
+#: includes/libs/js_composer/vc_map.php:1283
+msgid "Default"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:22
+msgid "Fullwidth Row"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:23
+msgid "Fluid Row"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:28
+msgid "Row Skin"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:33
+msgid "Faq Page"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:34
+msgid "Space Top"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:35
+msgid "Space Bottom"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:37
+msgid "Select Row Container Class."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:42
+msgid "Columns gap"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:59
+msgid "Select gap between columns in row."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:64
+msgid "Row ID"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:66
+#, php-format
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a href="
+"\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:71
+msgid "Disable row"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:73
+msgid ""
+"If checked the row won't be visible on the public side of your website. You "
+"can switch it back any time."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:74
+#: includes/libs/js_composer/vc_map.php:163
+msgid "Yes"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:79
+msgid "Extra class name"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:81
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:86
+msgid "CSS box"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:88
+msgid "Design Options"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:100
+msgid "Flipmart Heading"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:105
+#: includes/libs/js_composer/vc_map.php:148
+#: includes/libs/js_composer/vc_map.php:198
+#: includes/libs/js_composer/vc_map.php:230
+#: includes/libs/js_composer/vc_map.php:268
+#: includes/libs/js_composer/vc_map.php:314
+#: includes/libs/js_composer/vc_map.php:367
+#: includes/libs/js_composer/vc_map.php:428
+#: includes/libs/js_composer/vc_map.php:496
+#: includes/libs/js_composer/vc_map.php:592
+msgid "Flipmart Modules"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:106
+msgid "Insert heading of section."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:109
+#: includes/libs/js_composer/vc_map.php:501
+#: includes/libs/js_composer/vc_map.php:666
+#: includes/libs/js_composer/vc_map.php:704
+#: includes/libs/js_composer/vc_map.php:795
+#: includes/libs/js_composer/vc_map.php:901
+#: includes/libs/js_composer/vc_map.php:981
+#: includes/libs/js_composer/vc_map.php:1061
+#: includes/libs/js_composer/vc_map.php:1123
+#: includes/libs/js_composer/vc_map.php:1202
+#: includes/libs/js_composer/vc_map.php:1280
+#: includes/libs/js_composer/vc_map.php:1291
+msgid "Style"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:114
+msgid "One"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:115
+msgid "Two"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:117
+#: includes/libs/js_composer/vc_map.php:510
+msgid "Select banner style"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:121
+#: includes/libs/js_composer/vc_map.php:167
+#: includes/libs/js_composer/vc_map.php:273
+#: includes/libs/js_composer/vc_map.php:378
+#: includes/libs/js_composer/vc_map.php:453
+#: includes/libs/js_composer/vc_map.php:521
+#: includes/libs/js_composer/vc_map.php:597
+#: includes/libs/js_composer/vc_map.php:716
+#: includes/libs/js_composer/vc_map.php:807
+#: includes/libs/js_composer/vc_map.php:913
+#: includes/libs/js_composer/vc_map.php:993
+#: includes/libs/js_composer/vc_map.php:1073
+#: includes/libs/js_composer/vc_map.php:1135
+msgid "Heading"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:129
+#: includes/libs/js_composer/vc_map.php:386
+#: includes/libs/js_composer/vc_map.php:461
+#: includes/libs/js_composer/vc_map.php:533
+msgid "Sub Heading"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:143
+msgid "Flipmart FAQ Accordion"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:149
+msgid "Insert Accordion"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:160
+msgid "Active"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:162
+msgid "If checked active content"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:180
+msgid "Enter your HTML content."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:193
+msgid "Flipmart Lists"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:199
+msgid "Insert Lists"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:209
+msgid "List"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:225
+msgid "Flipmart Google Map"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:231
+msgid "Insert Google Map"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:235
+msgid "Latitude"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:242
+msgid "Longitude"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:249
+msgid "Maker Image"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:263
+msgid "Flipmart Contact Info"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:269
+msgid "Insert Contact Info"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:281
+msgid "Address"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:288
+msgid "Phone Number"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:295
+msgid "Email"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:309
+msgid "Flipmart Client Logs"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:315
+msgid "Insert Client Logs"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:319
+#: includes/libs/js_composer/vc_map.php:470
+#: includes/libs/js_composer/vc_map.php:566
+#: includes/libs/js_composer/vc_map.php:629
+#: includes/libs/js_composer/vc_map.php:766
+#: includes/libs/js_composer/vc_map.php:872
+#: includes/libs/js_composer/vc_map.php:953
+#: includes/libs/js_composer/vc_map.php:1033
+#: includes/libs/js_composer/vc_map.php:1095
+#: includes/libs/js_composer/vc_map.php:1175
+msgid "Animation"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:323
+#: includes/libs/js_composer/vc_map.php:474
+#: includes/libs/js_composer/vc_map.php:570
+#: includes/libs/js_composer/vc_map.php:633
+#: includes/libs/js_composer/vc_map.php:770
+#: includes/libs/js_composer/vc_map.php:876
+#: includes/libs/js_composer/vc_map.php:957
+#: includes/libs/js_composer/vc_map.php:1037
+#: includes/libs/js_composer/vc_map.php:1099
+#: includes/libs/js_composer/vc_map.php:1179
+msgid "Choose Animation from the drop down list."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:327
+#: includes/libs/js_composer/vc_map.php:478
+#: includes/libs/js_composer/vc_map.php:574
+#: includes/libs/js_composer/vc_map.php:637
+#: includes/libs/js_composer/vc_map.php:774
+#: includes/libs/js_composer/vc_map.php:880
+#: includes/libs/js_composer/vc_map.php:961
+#: includes/libs/js_composer/vc_map.php:1041
+#: includes/libs/js_composer/vc_map.php:1103
+#: includes/libs/js_composer/vc_map.php:1183
+msgid "Delay"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:339
+msgid "Logo"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:346
+#: includes/libs/js_composer/vc_map.php:407
+msgid "Link"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:362
+msgid "Flipmart Hero Section"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:368
+msgid "Insert Hero Section Slider"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:400
+msgid "Background Image"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:423
+msgid "Flipmart Info Box"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:429
+msgid "Insert Info Box"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:433
+#: includes/libs/js_composer/vc_map.php:823
+#: includes/libs/js_composer/vc_map.php:1226
+#: includes/libs/js_composer/vc_map.php:1306
+msgid "Columns"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:438
+msgid "Default Column"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:439
+msgid "Two Column"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:440
+msgid "Three Column"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:441
+msgid "Four Column"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:443
+msgid "Select Number Of Column"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:491
+msgid "Flipmart Image Banner"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:497
+msgid "Insert Image Banner"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:506
+msgid "Image"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:507
+msgid "Image With Text One"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:508
+msgid "Image With Text Two"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:514
+msgid "Banner Image"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:555
+msgid "Label"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:587
+msgid "Flipmart Blog Posts"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:593
+msgid "Insert Blog Posts"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:605
+msgid "Number Of Posts"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:613
+msgid "Choose Categories"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:625
+msgid "Enter categories of blog posts."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:657
+msgid "Product"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:660
+#: includes/libs/js_composer/vc_map.php:698
+#: includes/libs/js_composer/vc_map.php:789
+#: includes/libs/js_composer/vc_map.php:895
+#: includes/libs/js_composer/vc_map.php:976
+#: includes/libs/js_composer/vc_map.php:1056
+#: includes/libs/js_composer/vc_map.php:1118
+#: includes/libs/js_composer/vc_map.php:1197
+#: includes/libs/js_composer/vc_map.php:1275
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:661
+msgid "Show a single product by ID or SKU"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:669
+#: includes/libs/js_composer/vc_map.php:707
+#: includes/libs/js_composer/vc_map.php:798
+#: includes/libs/js_composer/vc_map.php:904
+#: includes/libs/js_composer/vc_map.php:984
+#: includes/libs/js_composer/vc_map.php:1064
+#: includes/libs/js_composer/vc_map.php:1126
+#: includes/libs/js_composer/vc_map.php:1205
+#: includes/libs/js_composer/vc_map.php:1294
+msgid "Style One"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:670
+#: includes/libs/js_composer/vc_map.php:708
+#: includes/libs/js_composer/vc_map.php:799
+#: includes/libs/js_composer/vc_map.php:905
+#: includes/libs/js_composer/vc_map.php:985
+#: includes/libs/js_composer/vc_map.php:1065
+#: includes/libs/js_composer/vc_map.php:1127
+#: includes/libs/js_composer/vc_map.php:1206
+#: includes/libs/js_composer/vc_map.php:1295
+msgid "Style Two"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:671
+#: includes/libs/js_composer/vc_map.php:1207
+msgid "Style Three"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:674
+#: includes/libs/js_composer/vc_map.php:711
+#: includes/libs/js_composer/vc_map.php:802
+#: includes/libs/js_composer/vc_map.php:908
+#: includes/libs/js_composer/vc_map.php:988
+#: includes/libs/js_composer/vc_map.php:1068
+#: includes/libs/js_composer/vc_map.php:1130
+#: includes/libs/js_composer/vc_map.php:1214
+#: includes/libs/js_composer/vc_map.php:1287
+#: includes/libs/js_composer/vc_map.php:1298
+msgid "Select how to show product"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:679
+msgid "Select identificator"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:681
+msgid "Input product ID or product SKU or product title to see suggestions"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:695
+#: includes/libs/js_composer/vc_map.php:742
+msgid "Products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:699
+msgid "Show multiple products by ID or SKU."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:723
+#: includes/libs/js_composer/vc_map.php:836
+#: includes/libs/js_composer/vc_map.php:929
+#: includes/libs/js_composer/vc_map.php:1009
+#: includes/libs/js_composer/vc_map.php:1151
+#: includes/libs/js_composer/vc_map.php:1238
+#: includes/libs/js_composer/vc_map.php:1364
+msgid "Order by"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:728
+#, php-format
+msgid "Select how to sort retrieved products. More at %s. Default by Title"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:733
+#: includes/libs/js_composer/vc_map.php:845
+#: includes/libs/js_composer/vc_map.php:938
+#: includes/libs/js_composer/vc_map.php:1018
+#: includes/libs/js_composer/vc_map.php:1160
+#: includes/libs/js_composer/vc_map.php:1246
+#: includes/libs/js_composer/vc_map.php:1372
+msgid "Sort order"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:737
+#, php-format
+msgid ""
+"Designates the ascending or descending order. More at %s. Default by ASC"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:750
+msgid "Enter List of Products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:754
+#: includes/libs/js_composer/vc_map.php:853
+#: includes/libs/js_composer/vc_map.php:946
+#: includes/libs/js_composer/vc_map.php:1026
+#: includes/libs/js_composer/vc_map.php:1088
+#: includes/libs/js_composer/vc_map.php:1168
+#: includes/libs/js_composer/vc_map.php:1261
+msgid "Pagination"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:757
+#: includes/libs/js_composer/vc_map.php:856
+#: includes/libs/js_composer/vc_map.php:949
+#: includes/libs/js_composer/vc_map.php:1029
+#: includes/libs/js_composer/vc_map.php:1091
+#: includes/libs/js_composer/vc_map.php:1171
+#: includes/libs/js_composer/vc_map.php:1264
+msgid "Make checked to Enable Pagination."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:786
+msgid "Recent products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:790
+msgid "Lists recent products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:814
+#: includes/libs/js_composer/vc_map.php:920
+#: includes/libs/js_composer/vc_map.php:1000
+#: includes/libs/js_composer/vc_map.php:1080
+#: includes/libs/js_composer/vc_map.php:1142
+#: includes/libs/js_composer/vc_map.php:1218
+#: includes/libs/js_composer/vc_map.php:1318
+msgid "Per page"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:818
+#: includes/libs/js_composer/vc_map.php:924
+#: includes/libs/js_composer/vc_map.php:1004
+#: includes/libs/js_composer/vc_map.php:1146
+msgid ""
+"The \"per_page\" shortcode determines how many products to show on the page"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:827
+msgid ""
+"The columns attribute controls how many columns wide the products should be "
+"before wrapping."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:840
+#: includes/libs/js_composer/vc_map.php:933
+#: includes/libs/js_composer/vc_map.php:1013
+#: includes/libs/js_composer/vc_map.php:1155
+#: includes/libs/js_composer/vc_map.php:1242
+#: includes/libs/js_composer/vc_map.php:1344
+#: includes/libs/js_composer/vc_map.php:1368
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:849
+#: includes/libs/js_composer/vc_map.php:942
+#: includes/libs/js_composer/vc_map.php:1022
+#: includes/libs/js_composer/vc_map.php:1164
+#: includes/libs/js_composer/vc_map.php:1250
+#: includes/libs/js_composer/vc_map.php:1356
+#: includes/libs/js_composer/vc_map.php:1376
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:861
+#: includes/libs/js_composer/vc_map.php:1386
+msgid "Categories"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:868
+#: includes/libs/js_composer/vc_map.php:1393
+msgid "List of product categories"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:892
+msgid "Featured products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:896
+msgid "Display products set as \"featured\""
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:973
+msgid "Sale products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:977
+#: includes/libs/js_composer/vc_map.php:1119
+msgid "List all products on sale"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1053
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1057
+msgid "List best selling products on sale"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1084
+#: includes/libs/js_composer/vc_map.php:1222
+#: includes/libs/js_composer/vc_map.php:1322
+msgid "How much items per page to show"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1115
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1194
+msgid "Product Category"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1198
+msgid "Show multiple products in a category"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1208
+msgid "Style Four"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1209
+msgid "Style Five"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1210
+msgid "Style Six"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1211
+msgid "Style Seven"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1230
+#: includes/libs/js_composer/vc_map.php:1310
+msgid "How much columns grid"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1254
+msgid "Category"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1258
+msgid "Product category list"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1272
+msgid "Product categories"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1276
+msgid "Display product categories loop"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1284
+msgid "Filter"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1330
+#: includes/libs/js_composer/vc_map.php:1380
+msgid "Number"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1332
+msgid "The `number` field is used to display the number of products."
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1340
+msgid "Product Order by"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1352
+msgid "Product Sort order"
+msgstr ""
+
+#: includes/libs/js_composer/vc_map.php:1382
+msgid "Hide empty"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:42
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:72
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:84
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:89
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:279
+#: includes/libs/yog-importer/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:123
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:132
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:183
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:187
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:196
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:124
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:167
+msgid "All done."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:167
+msgid "Have fun!"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:168
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:188
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:204
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:229
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:255
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:256
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:258
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:268
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:271
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:275
+msgid "Submit"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:288
+msgid "Import author:"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:299
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:302
+msgid "as a new user:"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:310
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:312
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:313
+msgid "- Select -"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:363
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:414
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:454
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:500
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:641
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:526
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:607
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:772
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:779
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:842
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:855
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:913
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:926
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:931
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:937
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:1036
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:1043
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:1058
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:1059
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/libs/yog-importer/wordpress-importer/wordpress-importer.php:1133
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:273
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:347
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:421
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:443
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:466
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:515
+msgid "Imported"
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:518
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:525
+msgid "No Title"
+msgstr ""
+
+#: includes/libs/yog-importer/yog-importer.php:556
+msgid "Sucessfully imported demo data!"
+msgstr ""
+
+#: yog-addons.php:122
+msgid "Please activate the Flipmart theme to use Yog Addons plugin."
+msgstr ""
+
+#: yog-addons.php:127
+msgid "Activate theme"
+msgstr ""
