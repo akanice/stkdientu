@@ -182,6 +182,16 @@ function yog_get_excerpt( $args = '' ) {
         $yog_text = get_the_content( '' );
     }
 
+	//vietth 
+	//var_dump($post);
+	$postID = $post->ID;
+	$postformat = get_post_format($postID,'');
+	// var_dump($postmeta);
+	
+	if ($postformat == 'video') {
+		return '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="'.$yog_text.'" frameborder="0" allowfullscreen></iframe></div>';
+	}
+	
     $yog_raw_excerpt = $yog_text;
 
     // Delete all shortcodes, scripts and tags

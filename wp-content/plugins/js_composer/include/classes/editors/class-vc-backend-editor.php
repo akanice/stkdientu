@@ -44,6 +44,7 @@ class Vc_Backend_Editor implements Vc_Editor_Interface {
 		// load backend editor
 		if ( function_exists( 'add_theme_support' ) ) {
 			add_theme_support( 'post-thumbnails' ); // @todo check is it needed?
+			add_theme_support( 'post-formats', array( 'aside', 'gallery','video' ) );
 		}
 		add_action( 'add_meta_boxes', array(
 			$this,

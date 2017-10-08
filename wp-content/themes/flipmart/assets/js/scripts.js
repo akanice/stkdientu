@@ -238,7 +238,7 @@
             });
         
             $(".blog-slider").owlCarousel({
-                items : 2,
+                items : 3,
                 itemsDesktopSmall :[979,2],
                 itemsDesktop : [1199,2],
                 navigation : true,

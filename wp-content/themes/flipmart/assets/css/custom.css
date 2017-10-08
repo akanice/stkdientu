@@ -15,3 +15,10 @@ header {
 	font-size: 12px;
 	font-family: 'Open Sans', san-serif;
 }
+.latest-blog .blog-slider {
+    padding-left: 21px;
+}
+.top-cart-row .dropdown-cart .lnk-cart {
+    background: #ff9729;
+    border: 1px solid rgba(195, 103, 5, 0.51);
+}
