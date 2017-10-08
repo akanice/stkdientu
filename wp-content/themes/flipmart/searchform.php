@@ -3,8 +3,8 @@
  * The template for displaying search form.
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 ?>
 <div class="sidebar-module-container">

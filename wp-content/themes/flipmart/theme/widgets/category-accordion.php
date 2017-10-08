@@ -3,8 +3,8 @@
  * Theme Widget ( Cagetory Accordion )
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 class Yog_Category_Accordion_Widget extends WP_Widget {
 
@@ -14,7 +14,7 @@ class Yog_Category_Accordion_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'category-accordion-widget' );
 
-        parent::__construct( 'category-accordion-widget', esc_html__( 'Flipmart: Category Accordion', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'category-accordion-widget', esc_html__( 'STKhoadientu: Category Accordion', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {

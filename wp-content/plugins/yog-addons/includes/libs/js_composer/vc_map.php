@@ -1,6 +1,6 @@
 <?php
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Row Setting / Element Map				            |						
+|				STKhoadientu:  Row Setting / Element Map				            |						
 --------------------------------------------------------------------------------*/
     
     vc_map( array(
@@ -93,16 +93,16 @@
     );
 
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Heading Module / Element Map				            |						
+|				STKhoadientu:  Heading Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Heading', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Heading', 'yog'),
 	  'base'        => 'yog_heading',
 	  'class'       => 'icon_yog_heading',
 	  'icon'	    => 'icon-wpb-ui-custom_heading',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert heading of section.', 'yog' ),
 	  'params'      => array(
             array(
@@ -136,16 +136,16 @@
     );
         
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Accordion Module / Element Map				            |						
+|				STKhoadientu:  Accordion Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart FAQ Accordion', 'yog'),
+	  'name'        => esc_html__('STKhoadientu FAQ Accordion', 'yog'),
 	  'base'        => 'yog_accordions',
 	  'class'       => 'icon_yog_accordions',
 	  'icon'	    => 'icon-wpb-ui-accordion',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Accordion', 'yog' ),
 	  'params'      => array(
             
@@ -186,16 +186,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Lists Module / Element Map				            |						
+|				STKhoadientu:  Lists Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Lists', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Lists', 'yog'),
 	  'base'        => 'yog_lists',
 	  'class'       => 'icon_yog_lists',
 	  'icon'	    => 'icon-wpb-ui-lists',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Lists', 'yog' ),
 	  'params'      => array(
             
@@ -218,16 +218,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Google Map Module / Element Map				            |						
+|				STKhoadientu:  Google Map Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Google Map', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Google Map', 'yog'),
 	  'base'        => 'yog_google_maps',
 	  'class'       => 'icon_yog_google_maps',
 	  'icon'	    => 'icon-wpb-ui-separator',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Google Map', 'yog' ),
 	  'params'      => array(
       
@@ -256,16 +256,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Contact Info Module / Element Map				            |						
+|				STKhoadientu:  Contact Info Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Contact Info', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Contact Info', 'yog'),
 	  'base'        => 'yog_contact_info',
 	  'class'       => 'icon_yog_contact_info',
 	  'icon'	    => 'icon-wpb-ui-separator',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Contact Info', 'yog' ),
 	  'params'      => array(
       
@@ -302,16 +302,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Client Logs Module / Element Map				            |						
+|				STKhoadientu:  Client Logs Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Client Logs', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Client Logs', 'yog'),
 	  'base'        => 'yog_client_logos',
 	  'class'       => 'icon_yog_client_logos',
 	  'icon'	    => 'icon-wpb-ui-accordion',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Client Logs', 'yog' ),
 	  'params'      => array(
             
@@ -355,16 +355,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Hero Section Module / Element Map				            |						
+|				STKhoadientu:  Hero Section Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Hero Section', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Hero Section', 'yog'),
 	  'base'        => 'yog_hero_sections',
 	  'class'       => 'icon_yog_hero_section',
 	  'icon'	    => 'icon-wpb-ui-accordion',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Hero Section Slider', 'yog' ),
 	  'params'      => array(
             
@@ -416,16 +416,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Info Box Module / Element Map				            |						
+|				STKhoadientu:  Info Box Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Info Box', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Info Box', 'yog'),
 	  'base'        => 'yog_info_boxes',
 	  'class'       => 'icon_yog_info_boxes',
 	  'icon'	    => 'icon-wpb-ui-accordion',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Info Box', 'yog' ),
 	  'params'      => array(
       
@@ -484,16 +484,16 @@
     );
     
 /*-------------------------------------------------------------------------------
-|				Flipmart:  Image Banner Module / Element Map				            |						
+|				STKhoadientu:  Image Banner Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Image Banner', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Image Banner', 'yog'),
 	  'base'        => 'yog_image_banner',
 	  'class'       => 'icon_yog_image_banner',
 	  'icon'	    => 'icon-wpb-ui-separator',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Image Banner', 'yog' ),
 	  'params'      => array(
             
@@ -580,16 +580,16 @@
     );
     
  /*-------------------------------------------------------------------------------
-|				Flipmart:  Blog Module / Element Map				            |						
+|				STKhoadientu:  Blog Module / Element Map				            |						
 --------------------------------------------------------------------------------*/
 
 	vc_map( array(
-	  'name'        => esc_html__('Flipmart Blog Posts', 'yog'),
+	  'name'        => esc_html__('STKhoadientu Blog Posts', 'yog'),
 	  'base'        => 'yog_blog_posts',
 	  'class'       => 'icon_yog_blog_posts',
 	  'icon'	    => 'icon-wpb-ui-separator',
 	  'weight'      => 101,
-	  'category'    => esc_html__('Flipmart Modules', 'yog'),
+	  'category'    => esc_html__('STKhoadientu Modules', 'yog'),
 	  'description' => esc_html__( 'Insert Blog Posts', 'yog' ),
 	  'params'      => array(
 
@@ -643,7 +643,7 @@
     );
 
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce Shortcode / Element Shortcode			|						
+|				STKhoadientu: Woocommerce Shortcode / Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
 /**
  * Check if WooCommerce is active
@@ -651,7 +651,7 @@
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_network( 'woocommerce/woocommerce.php' ) || is_network_only_plugin( 'woocommerce/woocommerce.php' ) ) {
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce product / Element Shortcode			|						
+|				STKhoadientu: Woocommerce product / Element Shortcode			|						
 --------------------------------------------------------------------------------*/        
   vc_map( array(
 		'name'        => esc_html__( 'Product', 'yog' ),
@@ -689,7 +689,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
     
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce products / Element Shortcode			|						
+|				STKhoadientu: Woocommerce products / Element Shortcode			|						
 --------------------------------------------------------------------------------*/        
   vc_map( array(
 		'name'        => esc_html__( 'Products', 'yog' ),
@@ -779,7 +779,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
             
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce Recent products / Element Shortcode			|						
+|				STKhoadientu: Woocommerce Recent products / Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
     
     vc_map( array(
@@ -885,7 +885,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
     
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce Featured products / Element Shortcode			|						
+|				STKhoadientu: Woocommerce Featured products / Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
     
     vc_map( array(
@@ -966,7 +966,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
     
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce Sale products / Element Shortcode			|						
+|				STKhoadientu: Woocommerce Sale products / Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
     
     vc_map( array(
@@ -1046,7 +1046,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
     
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce Best Selling products / Element Shortcode			|						
+|				STKhoadientu: Woocommerce Best Selling products / Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
     
     vc_map( array(
@@ -1108,7 +1108,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
     
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce Sale products / Element Shortcode			|						
+|				STKhoadientu: Woocommerce Sale products / Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
     
     vc_map( array(
@@ -1188,7 +1188,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 	));
 
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce product Categories/ Element Shortcode			|						
+|				STKhoadientu: Woocommerce product Categories/ Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
   vc_map( array(
 		'name'        => esc_html__( 'Product Category', 'yog' ),
@@ -1266,7 +1266,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) || is_plugin_active_for_n
 		)
   ));
 /*-------------------------------------------------------------------------------
-|				Flipmart: Woocommerce product Categories/ Element Shortcode			|						
+|				STKhoadientu: Woocommerce product Categories/ Element Shortcode			|						
 --------------------------------------------------------------------------------*/    
   vc_map( array(
 		'name'        => esc_html__( 'Product categories', 'yog' ),

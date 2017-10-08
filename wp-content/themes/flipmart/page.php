@@ -7,8 +7,8 @@
  * other "pages" on your WordPress site will use a different template.
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
  get_header(); 
     

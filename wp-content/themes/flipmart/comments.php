@@ -6,8 +6,8 @@
  * and the comment form.
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 
 /*

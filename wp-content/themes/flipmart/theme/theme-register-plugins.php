@@ -18,12 +18,12 @@ function yog_register_required_plugins() {
 	$yog_plugins = array(
     
         array(
-			'name' 		      => esc_html__( 'Flipmart Addons', 'flipmart' ),
+			'name' 		      => esc_html__( 'STKhoadientu Addons', 'flipmart' ),
 			'slug' 		      => 'yog-addons',
 			'required' 	      => true,
             'source'          => 'http://vthemes.xyz/plugin/flipmart/yog-addons.zip',
 			'yog_author'      => esc_html__( 'CKThemes', 'flipmart' ),
-			'yog_description' => esc_html__( 'Flipmart core theme plugin.', 'flipmart' )
+			'yog_description' => esc_html__( 'STKhoadientu core theme plugin.', 'flipmart' )
 		),
         
 		array(

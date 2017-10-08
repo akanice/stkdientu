@@ -3,8 +3,8 @@
  * Theme Widget ( User Testimonial )
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 class Yog_User_Testimonial_Widget extends WP_Widget {
 
@@ -14,7 +14,7 @@ class Yog_User_Testimonial_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'user-testimonial-widget' );
 
-        parent::__construct( 'user-testimonial-widget', esc_html__( 'Flipmart: User Testimonials', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'user-testimonial-widget', esc_html__( 'STKhoadientu: User Testimonials', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {

@@ -1,6 +1,6 @@
 <?php
 /*--------------------------------------------------------------------------------
-|				Flipmart: Heading Module / Element Shortcode			|						
+|				STKhoadientu: Heading Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_heading($atts, $content = null ){
@@ -44,7 +44,7 @@
   add_shortcode( 'yog_heading', 'yog_heading' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart: Lists Module / Element Shortcode			|						
+|				STKhoadientu: Lists Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_lists($atts, $content = null ){
@@ -85,7 +85,7 @@
   add_shortcode( 'yog_lists', 'yog_lists' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart: Accordion Module / Element Shortcode			|						
+|				STKhoadientu: Accordion Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_accordions($atts, $content = null ){
@@ -152,7 +152,7 @@
   add_shortcode( 'yog_accordions', 'yog_accordions' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart:  Video Lightbox / Element Shortcode			|						
+|				STKhoadientu:  Video Lightbox / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_google_maps($atts, $content = null ){
@@ -189,7 +189,7 @@
 	add_shortcode( 'yog_google_maps', 'yog_google_maps' );
     
 /*--------------------------------------------------------------------------------
-|				Flipmart:  Video Lightbox / Element Shortcode			|						
+|				STKhoadientu:  Video Lightbox / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_contact_info($atts, $content = null ){
@@ -265,7 +265,7 @@
 	add_shortcode( 'yog_contact_info', 'yog_contact_info' );
     
 /*--------------------------------------------------------------------------------
-|				Flipmart: Client Logs Module / Element Shortcode			|						
+|				STKhoadientu: Client Logs Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_client_logos($atts, $content = null ){
@@ -339,7 +339,7 @@
   add_shortcode( 'yog_client_logos', 'yog_client_logos' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart: Hero Section Module / Element Shortcode			|						
+|				STKhoadientu: Hero Section Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_hero_sections($atts, $content = null ){
@@ -421,7 +421,7 @@
   add_shortcode( 'yog_hero_sections', 'yog_hero_sections' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart: Info Box Module / Element Shortcode			|						
+|				STKhoadientu: Info Box Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_info_boxes($atts, $content = null ){
@@ -497,7 +497,7 @@
   add_shortcode( 'yog_info_boxes', 'yog_info_boxes' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart: Image Banner Module / Element Shortcode			|						
+|				STKhoadientu: Image Banner Module / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_image_banner($atts, $content = null ){
@@ -625,7 +625,7 @@
   add_shortcode( 'yog_image_banner', 'yog_image_banner' );
   
 /*--------------------------------------------------------------------------------
-|				Flipmart: Blog Post / Element Shortcode			|						
+|				STKhoadientu: Blog Post / Element Shortcode			|						
 --------------------------------------------------------------------------------*/
 
 	function yog_blog_posts($atts, $content = null ){

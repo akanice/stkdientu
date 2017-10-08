@@ -3,15 +3,15 @@
  * The template used for displaying page content
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 ?>
 
 <div <?php yog_helper()->attr( 'post' ) ?>>
 
 	<div <?php yog_helper()->attr( 'entry-content' ) ?>>
-	   <?php
+	    <?php
             if ( have_posts() ) :
     
         		// Start the loop.

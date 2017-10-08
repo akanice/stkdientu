@@ -3,8 +3,8 @@
  * Theme Widget ( Banner )
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 class Yog_Banner_Widget extends WP_Widget {
 
@@ -14,7 +14,7 @@ class Yog_Banner_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'banner-widget' );
 
-        parent::__construct( 'banner-widget', esc_html__( 'Flipmart: Banner', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'banner-widget', esc_html__( 'STKhoadientu: Banner', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {

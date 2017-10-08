@@ -3,8 +3,8 @@
  * The template used for displaying page content
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 ?>
 

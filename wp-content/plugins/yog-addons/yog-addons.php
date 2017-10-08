@@ -117,7 +117,7 @@ final class Yog_Addons {
 		}
 	?>
 		<div class="updated not-h2">
-			<p><strong><?php esc_html_e( 'Please activate the Flipmart theme to use Yog Addons plugin.', 'yog'); ?></strong></p>
+			<p><strong><?php esc_html_e( 'Please activate the STKhoadientu theme to use Yog Addons plugin.', 'yog'); ?></strong></p>
 			<?php
 				$screen = get_current_screen();
 				if ($screen -> base != 'themes'):

@@ -82,7 +82,7 @@ $demos = get_theme_support( 'yog-demos' )[0];
 					<?php endforeach; ?>
 					</ul>
                 <?php else: ?>   
-                    <div class="notice demo inline notice-warning notice-alt"><p><?php echo esc_html__( 'Please install / activate Flipmart Core Addons plugin after that you can import theme demo contents', 'flipmart' )?></p></div> 
+                    <div class="notice demo inline notice-warning notice-alt"><p><?php echo esc_html__( 'Please install / activate STKhoadientu Core Addons plugin after that you can import theme demo contents', 'flipmart' )?></p></div> 
 				<?php endif; ?>
 			</div>
             
@@ -125,7 +125,7 @@ $demos = get_theme_support( 'yog-demos' )[0];
                 <h3>1.0</h3>
                 <p><strong>Released: 12th September 2017</strong></p>
                 <ul>
-                    <li>Initial Flipmart WordPress Theme release</li>
+                    <li>Initial STKhoadientu WordPress Theme release</li>
                 </ul>
             </div>
 

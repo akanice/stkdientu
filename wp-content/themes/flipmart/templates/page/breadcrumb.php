@@ -3,12 +3,12 @@
     $yog_breadcrumb_enable_page   = yog_helper()->get_option( 'page-breadcrumb-enable', 'raw', false, 'post' );
     $yog_breadcrumb_enable_option = yog_helper()->get_option( 'breadcrumb-enable' ); 
     if( 1 != $yog_breadcrumb_enable_page && is_page() ){ 
-        echo '<div class="outer-top-xs"></div><div class="clearfix"></div>';
+        echo '<div class="outer-top-xs1"></div><div class="clearfix"></div>';
         return;
     }elseif( 1 != $yog_breadcrumb_enable_option && 1 != $yog_breadcrumb_enable_page ){
-        echo '<div class="outer-top-xs"></div><div class="clearfix"></div>';
+        echo '<div class="outer-top-xs1"></div><div class="clearfix"></div>';
         return;
-    }
+    }//vietth edited
 ?>
 <div class="breadcrumb">
 	<div class="container">

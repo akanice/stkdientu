@@ -3,8 +3,8 @@
  * Theme Widget ( Contact Information )
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 class Yog_Contact_Info_Widget extends WP_Widget {
 
@@ -14,7 +14,7 @@ class Yog_Contact_Info_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'contact-info-widget' );
 
-        parent::__construct( 'contact-info-widget', esc_html__( 'Flipmart: Contact Info', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'contact-info-widget', esc_html__( 'STKhoadientu: Contact Info', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {

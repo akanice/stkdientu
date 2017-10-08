@@ -57,7 +57,7 @@
             <div class="<?php echo esc_attr( $yog_class ); ?>">
                 <?php if( !is_singular( 'product' ) && yog_helper()->get_option( 'shop-sale-banner', 'raw', false, 'options' ) ): ?>
                     <div id="category" class="category-carousel hidden-xs" <?php yog_helper()->attr( false, array( 'data-animation' => $yog_animation, 'data-animation-daley' => $yog_delay ) ); ?>>
-                      <div class="item">
+                        <div class="item">
                       
                         <?php if( $yog_banner = yog_helper()->get_option( 'shop-banner', 'raw', false, 'options' ) ){ ?>
                         

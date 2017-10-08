@@ -3,8 +3,8 @@
  * The template for displaying 404 pages (not found)
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 
  get_header(); 

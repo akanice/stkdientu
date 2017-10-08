@@ -14,7 +14,7 @@ class Yog_Filckr_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'recent-flickr-widget' );
 
-        parent::__construct( 'recent-flickr-widget', esc_html__( 'Flipmart: Flickr Feeds', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'recent-flickr-widget', esc_html__( 'STKhoadientu: Flickr Feeds', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {

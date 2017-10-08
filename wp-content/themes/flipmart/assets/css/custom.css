@@ -1,0 +1,17 @@
+body {
+	background: #f3f3f3;
+}	
+header {
+	background: #ff9729;
+}
+.header-style-1 .header-nav {
+	background: #c36705;
+}
+.breadcrumb {
+	background: #e8e8e8;
+	border-radius: 0;
+}
+.breadcrumb-inner .list-inline > li {
+	font-size: 12px;
+	font-family: 'Open Sans', san-serif;
+}

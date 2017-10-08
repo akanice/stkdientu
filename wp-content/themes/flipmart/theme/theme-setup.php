@@ -121,42 +121,42 @@ add_action( 'widgets_init', 'yog_widgets_init' );
 add_theme_support( 'yog-demos', array(
 
 	'flipmart-v1' => array(
-		'title'       => esc_html__( 'Flipmart', 'flipmart' ),
+		'title'       => esc_html__( 'STKhoadientu', 'flipmart' ),
 		'description' => esc_html__( 'import complete demo of theme one version', 'flipmart' ),
 		'screenshot'  => get_template_directory_uri() . '/theme/demo/flipmart-v1/screenshot.jpg',
 		'preview'     => esc_url( 'http://www.ckthemes.com/flipmart/' )
 	),
     
     'flipmart-v2' => array(
-		'title'       => esc_html__( 'Flipmart', 'flipmart' ),
+		'title'       => esc_html__( 'STKhoadientu', 'flipmart' ),
 		'description' => esc_html__( 'import complete demo of theme two version', 'flipmart' ),
 		'screenshot'  => get_template_directory_uri() . '/theme/demo/flipmart-v2/screenshot.jpg',
 		'preview'     => esc_url( 'http://www.ckthemes.com/flipmart/v2/' )
 	),
     
     'flipmart-v3' => array(
-		'title'       => esc_html__( 'Flipmart', 'flipmart' ),
+		'title'       => esc_html__( 'STKhoadientu', 'flipmart' ),
 		'description' => esc_html__( 'import complete demo of theme three version', 'flipmart' ),
 		'screenshot'  => get_template_directory_uri() . '/theme/demo/flipmart-v3/screenshot.jpg',
 		'preview'     => esc_url( 'http://www.ckthemes.com/flipmart/v3/' )
 	),
     
     'flipmart-v4' => array(
-		'title'       => esc_html__( 'Flipmart', 'flipmart' ),
+		'title'       => esc_html__( 'STKhoadientu', 'flipmart' ),
 		'description' => esc_html__( 'import complete demo of theme four version', 'flipmart' ),
 		'screenshot'  => get_template_directory_uri() . '/theme/demo/flipmart-v4/screenshot.jpg',
 		'preview'     => esc_url( 'http://www.ckthemes.com/flipmart/v4/' )
 	),
     
     'flipmart-v5' => array(
-		'title'       => esc_html__( 'Flipmart', 'flipmart' ),
+		'title'       => esc_html__( 'STKhoadientu', 'flipmart' ),
 		'description' => esc_html__( 'import complete demo of theme five version', 'flipmart' ),
 		'screenshot'  => get_template_directory_uri() . '/theme/demo/flipmart-v5/screenshot.jpg',
 		'preview'     => esc_url( 'http://www.ckthemes.com/flipmart/v5/' )
 	),
     
     'flipmart-v6' => array(
-		'title'       => esc_html__( 'Flipmart', 'flipmart' ),
+		'title'       => esc_html__( 'STKhoadientu', 'flipmart' ),
 		'description' => esc_html__( 'import complete demo of theme six rtl version', 'flipmart' ),
 		'screenshot'  => get_template_directory_uri() . '/theme/demo/flipmart-v6/screenshot.png',
 		'preview'     => esc_url( 'http://www.ckthemes.com/flipmart/v6/' )

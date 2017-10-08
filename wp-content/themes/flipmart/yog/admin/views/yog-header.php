@@ -12,7 +12,7 @@
 				</div>
 			</h1>
 
-			<p><?php echo esc_html__( 'Thank you for using Flipmart. CKThemes will improve your overall web publishing experience.', 'flipmart' ) ?></p>
+			<p><?php echo esc_html__( 'Thank you for using STKhoadientu. CKThemes will improve your overall web publishing experience.', 'flipmart' ) ?></p>
 
 	   </div>
 	</div>

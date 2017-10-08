@@ -3,8 +3,8 @@
  * Theme Widget ( Product Hot Deals )
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 class Yog_Product_Hot_Deals_Widget extends WP_Widget {
 
@@ -14,7 +14,7 @@ class Yog_Product_Hot_Deals_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'product-hot-deals-widget' );
 
-        parent::__construct( 'product-hot-deals-widget', esc_html__( 'Flipmart: Product Hot Deals', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'product-hot-deals-widget', esc_html__( 'STKhoadientu: Product Hot Deals', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {

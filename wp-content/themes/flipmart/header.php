@@ -10,8 +10,8 @@
  * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 ?>
 <!DOCTYPE html>

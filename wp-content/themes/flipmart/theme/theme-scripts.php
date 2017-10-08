@@ -112,6 +112,9 @@ class Yog_Theme_Assets extends Yog_Base {
         wp_enqueue_style( "yog-main-{$yog_site_version}",$this->get_css_uri( "main-{$yog_site_version}.css" ), false, false );
         wp_enqueue_style( "yog-skin-{$yog_site_version}",$this->get_css_uri( "skins/skin-{$yog_site_version}.css" ), false, false );
         
+		//Custom css file
+		wp_enqueue_style( 'custom',$this->get_css_uri('custom.css'), false, false );
+		
         //Color
         $yog_theme_color = yog_helper()->get_option( 'color-skin' );
         if( !empty( $yog_theme_color ) && yog_helper()->get_theme_option( 'color-view' ) ){

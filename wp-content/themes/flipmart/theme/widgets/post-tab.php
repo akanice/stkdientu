@@ -3,8 +3,8 @@
  * Theme Widget ( Post Tab )
  *
  * @package WordPress
- * @subpackage Flipmart
- * @since Flipmart 1.0
+ * @subpackage STKhoadientu
+ * @since STKhoadientu 1.0
  */
 class Yog_Post_Tab_Widget extends WP_Widget {
 
@@ -14,7 +14,7 @@ class Yog_Post_Tab_Widget extends WP_Widget {
 
         $yog_control_ops = array( 'id_base' => 'post-tab-widget' );
 
-        parent::__construct( 'post-tab-widget', esc_html__( 'Flipmart: Tab Posts', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
+        parent::__construct( 'post-tab-widget', esc_html__( 'STKhoadientu: Tab Posts', 'flipmart' ), $yog_widget_ops, $yog_control_ops );
     }
 
     function widget( $args, $instance ) {
